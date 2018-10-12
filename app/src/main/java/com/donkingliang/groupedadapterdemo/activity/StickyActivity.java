@@ -27,6 +27,7 @@ public class StickyActivity extends AppCompatActivity {
     private RecyclerView rvList;
     private StickyHeaderLayout stickyLayout;
 
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
